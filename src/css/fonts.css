@@ -1,0 +1,39 @@
+@font-face {
+    font-family:iranyekan ;
+    font-style: normal;
+    font-weight: 400;
+    src: url("./assets/woff/IRANYekanWebRegular.woff") format("woff");
+}
+@font-face {
+    font-family: iranyekan;
+    font-weight: 800;
+    font-style: normal;
+    src: url("./assets/woff/IRANYekanWebBold.woff") format("woff");
+}
+@font-face {
+    font-family: iranyekan;
+    font-weight:100 ;
+    font-style: normal;
+    src: url("./assets/woff/IRANYekanWebThin.woff" ) format("woff");
+    
+}
+@font-face {
+    font-family: iranyekan;
+    font-weight: 300;
+    font-style: normal;
+    src: url("./assets/woff/IRANYekanWebLight.woff");
+}
+@font-face {
+    font-family: iranyekan;
+    font-weight: 500;
+    font-style: normal;
+    src: url("./assets/woff/IRANYekanWebMedium.woff") format("woff");
+
+}
+@font-face {
+    font-family: iranyekan;
+    font-weight: 900;
+    font-style: normal;
+    src: url("./assets/woff/IRANYekanWebExtraBold.woff") format("woff");
+
+}
